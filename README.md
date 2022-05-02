@@ -1,4 +1,12 @@
-EN:
+
+>>>>>>>> EmeraldCity Bootcamp <<<<<<<<<<
+>>>>>>>>>>>> The best DAO <<<<<<<<<<<<<<
+
+My Address: 0x1fe1e944d6f0fd70
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EN - 🇺🇸 :
 
 The code presented here is a Bootcamp carried out by DAO (Decentralized Autonomous Organization) EmeraldCity.
 
@@ -8,7 +16,11 @@ Each folder within the repository is a chapter, within each chapter are the task
 
 All smart contracts that will be created during this course will be under Address 0x1fe1e944d6f0fd70.
 
-PT-BR:
+The answers will be placed in English and translated into Portuguese - BR!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PT - 🇧🇷 :
 
 O código aqui presente trata-se de um Bootcamp realizado pela DAO(Organização Autônoma Descentralizada) EmeraldCity.
 
@@ -18,7 +30,4 @@ Cada pasta dentro desse reposítorio trata-se de um capítulo, dentro de cada ca
 
 Todos os contratos inteligentes que serão criados durante esse curso estarão dentro do Endereço 0x1fe1e944d6f0fd70.
 
->>>>>>>> EmeraldCity Bootcamp <<<<<<<<<<
->>>>>>>>>>>> The best DAO <<<<<<<<<<<<<<
-
-My Address: 0x1fe1e944d6f0fd70
+As respostas serão colocadas em inglês e traduzidas para português - BR! 
