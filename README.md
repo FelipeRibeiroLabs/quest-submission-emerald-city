@@ -1,12 +1,15 @@
 
->>>>>>>> EmeraldCity Bootcamp <<<<<<<<<<
->>>>>>>>>>>> The best DAO <<<<<<<<<<<<<<
-
-My Address: 0x1fe1e944d6f0fd70
+<div align="center"> 
+  <img  width="200" alt="FlowBlockchainLogo" justify-content="center" src="https://cryptologos.cc/logos/flow-flow-logo.png">
+  <h1> :space_invader: Emerald Academy Bootcamp :milky_way: </h1>
+  <p>EmeraldCity Bootcamp - The best DAO</p>
+  <p> <strong> My Address:  0x1fe1e944d6f0fd70 </strong> </p>
+</div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-EN - 🇺🇸 :
+<h2> EN - 🇺🇸 :</h2>
+
 
 The code presented here is a Bootcamp carried out by DAO (Decentralized Autonomous Organization) EmeraldCity.
 
@@ -17,10 +20,11 @@ Each folder within the repository is a chapter, within each chapter are the task
 All smart contracts that will be created during this course will be under Address 0x1fe1e944d6f0fd70.
 
 The answers will be placed in English and translated into Portuguese - BR!
+  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-PT - 🇧🇷 :
+<h2> PT - 🇧🇷 : </h2>
 
 O código aqui presente trata-se de um Bootcamp realizado pela DAO(Organização Autônoma Descentralizada) EmeraldCity.
 
